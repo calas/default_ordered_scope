@@ -1,0 +1,6 @@
+Default Ordered Scope
+=====================
+
+This is a re-implementation of the +default_order+ plugin for Ruby on Rails using scopes.
+
+Copyright (c) 2008 Jorge Calás, released under the MIT license
